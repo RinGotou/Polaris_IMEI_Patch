@@ -1,0 +1,6 @@
+id=PolarisIMEIPatch
+name=IMEI/MEID Patch for MIX 2S
+version=v0.1
+versionCode=1
+author=RinGotou
+description=Remove sensitive and easily-accessible IMEI/MEID props at startup, and shame on you, Xiaomi
