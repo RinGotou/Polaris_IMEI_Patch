@@ -13,8 +13,8 @@ persist.radio.imei*
 
 And, you can access to these values WITHOUT ANY PERMISSIONS.IT'S HILARIOUS!
 
-#How?
+# How?
 Just try to overwrite all sensitive values at every startup stage of magisk.
 
-#License
+# License
 GPLv3
